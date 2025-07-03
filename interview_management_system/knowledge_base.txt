@@ -1,0 +1,239 @@
+GNX Solutions: Interview FAQs for Candidates"
+
+1. Interview Logistics
+Q: What’s the interview timeline after application?
+A: Selected candidates will hear back within 5 business days. The process takes 2 weeks (3 rounds max).
+
+Q: Is the interview remote or in-office?
+A: All interviews are conducted via Google Meet. Onsite final rounds are optional.
+
+2. Role & Team
+Q: Who will interview me?
+*A: Round 1 – Tech Lead, Round 2 – Hiring Manager, Round 3 – HR/Culture fit.*
+
+Q: What’s the team structure for this role?
+*A: You’ll join a cross-functional squad of 6 (2 BE devs, 1 FE dev, 1 QA, 1 PM, 1 Designer).*
+
+3. Evaluation Criteria
+Q: How is the coding round evaluated?
+*A: We assess problem-solving (60%), code cleanliness (30%), and communication (10%).*
+
+Q: Do I need to know all technologies listed in the JD?
+A: Core skills are mandatory (e.g., Python). Nice-to-haves (e.g., AWS) won’t disqualify you.
+
+4. Post-Interview
+Q: When will I get feedback?
+A: Within 3 business days via email. If rejected, you can reapply after 6 months.
+
+Q: What’s the onboarding process?
+*A: 1-week orientation, 2-week buddy system, and quarterly upskilling.*
+
+5. Company Policies
+Q: What’s GNX’s hybrid work policy?
+*A: 3 days WFH/week. Core hours: 10 AM–3 PM (flexible otherwise).*
+
+Q: Are relocation costs covered?
+*A: Yes, for senior roles (L4+). Discuss this with HR in Round 3.*
+
+Design Tips for AI Readability:
+Use bullet points for scannability.
+
+Bold key phrases (e.g., "3 business days") for quick reference.
+
+Include a footer with:
+"For real-time updates, visit careers.gnxsolutions.com/interview-faq"
+
+Why This Works:
+Reduces candidate anxiety by clarifying unknowns.
+
+Standardizes AI responses (e.g., "Refer to Section 3 in the PDF").
+
+Saves HR time by automating common queries.
+
+Need to add role-specific doubts (e.g., for interns vs. leads)? Share the position, and I’ll refine further!
+
+can you add more
+Here’s an expanded Candidate FAQ PDF for GNX Solutions with 20+ common doubts, structured for AI training and candidate clarity:
+
+GNX Solutions: Candidate Interview Guide
+(For AI Training & Candidate Reference)
+
+1. Application Process
+Q: How long until I hear back after applying?
+A: Our AI screens resumes within 48 hours. Shortlisted candidates get a response within 5 business days.
+
+Q: Can I apply for multiple roles?
+A: Yes, but prioritize your top 2 roles. Duplicate applications slow the process.
+
+Q: Is there an application deadline?
+A: Roles are open until filled, but early applicants get priority.
+
+2. Interview Format
+Q: What’s the interview structure?
+*A:
+
+Round 1: Technical screen (Live coding/DSA)
+
+Round 2: System design/Architecture
+
+Round 3: Culture fit (Behavioral + HR)*
+
+Q: Are interviews recorded?
+A: Only with your consent. Recordings are deleted after 30 days.
+
+Q: Can I use Google during coding tests?
+A: Yes, but explain your thought process aloud.
+
+3. Technical Expectations
+Q: Which IDE/tools will I use for coding rounds?
+A: CoderPad (Python/JS/Java) or Figma for design roles.
+
+Q: Will I face whiteboard problems?
+*A: Only for system design roles (L5+). Others get take-home assignments.*
+
+Q: How important are LeetCode skills?
+A: We value practical problem-solving over memorized solutions.
+
+4. Team & Culture
+Q: What’s the work-life balance like?
+A: We enforce "no overtime" culture. Weekends are always off.
+
+Q: How diverse is the engineering team?
+*A: 40% women, 20+ nationalities. ERGs for LGBTQ+, parents, etc.*
+
+Q: What’s your tech stack?
+*A: Python/Node.js, React, AWS/K8s, PostgreSQL, Terraform.*
+
+5. Post-Interview
+Q: When will I get an offer/rejection?
+A: Within 3 business days. Delays mean you’re on the waitlist.
+
+Q: Can I request feedback if rejected?
+A: Yes! Email careers@gnx.com with "Feedback Request: [Job ID]".
+
+Q: What’s the salary range for this role?
+*A: $90K–$140K base (varies by location/level). Discussed in Round 3.*
+
+6. Logistics
+Q: Is relocation required?
+*A: Only for hybrid roles (2 days/week in NYC/SF/Austin offices).*
+
+Q: Do you sponsor visas?
+A: Yes (H1B, L1, TN). Processing takes 4–6 months.
+
+Q: What’s the start date flexibility?
+A: 2–8 weeks from offer, negotiable for notices.
+
+7. Internships
+Q: Are interns paid?
+*A: Yes! $7K–$10K/month + housing stipend.*
+
+Q: Can interns return full-time?
+A: 75% receive return offers based on performance.
+
+AI Training Notes
+Tone: Friendly but professional (e.g., "We’re excited you asked!")
+
+Fallback: "For details, visit gnxsolutions.com/hiring-faq"
+
+Confidential: Mark sensitive answers (e.g., salaries) as "For internal AI use only"
+
+Here’s an expanded **Candidate FAQ PDF** for GNX Solutions with 20+ common doubts, structured for AI training and candidate clarity:
+
+---
+
+### **GNX Solutions: Candidate Interview Guide**  
+*(For AI Training & Candidate Reference)*  
+
+#### **1. Application Process**  
+**Q: How long until I hear back after applying?**  
+*A: Our AI screens resumes within 48 hours. Shortlisted candidates get a response within 5 business days.*  
+
+**Q: Can I apply for multiple roles?**  
+*A: Yes, but prioritize your top 2 roles. Duplicate applications slow the process.*  
+
+**Q: Is there an application deadline?**  
+*A: Roles are open until filled, but early applicants get priority.*  
+
+---
+
+#### **2. Interview Format**  
+**Q: What’s the interview structure?**  
+*A:  
+- Round 1: Technical screen (Live coding/DSA)  
+- Round 2: System design/Architecture  
+- Round 3: Culture fit (Behavioral + HR)*  
+
+**Q: Are interviews recorded?**  
+*A: Only with your consent. Recordings are deleted after 30 days.*  
+
+**Q: Can I use Google during coding tests?**  
+*A: Yes, but explain your thought process aloud.*  
+
+---
+
+#### **3. Technical Expectations**  
+**Q: Which IDE/tools will I use for coding rounds?**  
+*A: CoderPad (Python/JS/Java) or Figma for design roles.*  
+
+**Q: Will I face whiteboard problems?**  
+*A: Only for system design roles (L5+). Others get take-home assignments.*  
+
+**Q: How important are LeetCode skills?**  
+*A: We value practical problem-solving over memorized solutions.*  
+
+---
+
+#### **4. Team & Culture**  
+**Q: What’s the work-life balance like?**  
+*A: We enforce "no overtime" culture. Weekends are always off.*  
+
+**Q: How diverse is the engineering team?**  
+*A: 40% women, 20+ nationalities. ERGs for LGBTQ+, parents, etc.*  
+
+**Q: What’s your tech stack?**  
+*A: Python/Node.js, React, AWS/K8s, PostgreSQL, Terraform.*  
+
+---
+
+#### **5. Post-Interview**  
+**Q: When will I get an offer/rejection?**  
+*A: Within 3 business days. Delays mean you’re on the waitlist.*  
+
+**Q: Can I request feedback if rejected?**  
+*A: Yes! Email careers@gnx.com with "Feedback Request: [Job ID]".*  
+
+**Q: What’s the salary range for this role?**  
+*A: $90K–$140K base (varies by location/level). Discussed in Round 3.*  
+
+---
+
+#### **6. Logistics**  
+**Q: Is relocation required?**  
+*A: Only for hybrid roles (2 days/week in NYC/SF/Austin offices).*  
+
+**Q: Do you sponsor visas?**  
+*A: Yes (H1B, L1, TN). Processing takes 4–6 months.*  
+
+**Q: What’s the start date flexibility?**  
+*A: 2–8 weeks from offer, negotiable for notices.*  
+
+---
+
+#### **7. Internships**  
+**Q: Are interns paid?**  
+*A: Yes! $7K–$10K/month + housing stipend.*  
+
+**Q: Can interns return full-time?**  
+*A: 75% receive return offers based on performance.*  
+
+---
+
+### **AI Training Notes**  
+- **Tone**: Friendly but professional (e.g., "We’re excited you asked!")  
+- **Fallback**: *"For details, visit gnxsolutions.com/hiring-faq"*  
+- **Confidential**: Mark sensitive answers (e.g., salaries) as *"For internal AI use only"*  
+
+
+- Add a QR code linking to the careers page  
+- Include a checklist: *"✅ Bring ID, ✅ Test tech setup, ✅ Prepare questions"*  
