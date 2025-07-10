@@ -1,4 +1,4 @@
-# interview_management_system/communication.py (MODIFIED)
+# interview_management_system/communication.py 
 
 import logging
 import smtplib
